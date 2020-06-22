@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <project path="device/lge/h870" name="Marcel-the-god/android_device_lge_h870" remote="github" revision="AICP"/>
   <project path="device/lge/h872" name="Marcel-the-god/android_device_lge_h872" remote="github" revision="AICP"/>
